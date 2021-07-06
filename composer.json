@@ -1,0 +1,24 @@
+{
+    "name": "nwidart/blog",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Kristóf Köblös",
+            "email": "koblos.kristof@lioner.hu"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Blog\\": ""
+        }
+    }
+}
